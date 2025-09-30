@@ -34,12 +34,12 @@ I created this repo to help me learn Rust to:
 ## 🗂️ Repo Structure
 
 learning-rust/
-├── basics/ # Variables, control flow, functions
-├── ownership/ # Ownership, borrowing, lifetimes
-|── collections/ # Vectors, strings, hashmaps
-├── error-handling/ # Result, Option, panic, custom errors
-├── concurrency/ # Threads, channels, async/await
-└── mini-projects/ # Small practical Rust programs
+  ├── basics/ # Variables, control flow, functions
+  ├── ownership/ # Ownership, borrowing, lifetimes
+  ├── collections/ # Vectors, strings, hashmaps
+  ├── error-handling/ # Result, Option, panic, custom errors
+  ├── concurrency/ # Threads, channels, async/await
+  └── mini-projects/ # Small practical Rust programs
 
 > 💡 Each folder includes code samples, exercises, and where possible, **unit tests** to validate my understanding.
 
